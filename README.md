@@ -5,3 +5,5 @@
 - Set state and passing to another component
 - Inserting style and component in another component
 - For learned more.. the app was created to use TSX -> typescript with XML form
+
+![Screenshot](img.png)
