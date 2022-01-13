@@ -1,7 +1,7 @@
-## Tic toc toe to learned more about React App
-- lerned props
-- components as functions
-- components as class
-- set state and passin to other component
-- inserting sytle and component in other component
-- For lerned more.. the app was create to use TSX -> typescript with xml form
+## Tic toc toe to learning more about React App
+- Learned props
+- Components as functions
+- Components as classes
+- Set state and passing to another component
+- Inserting style and component in another component
+- For learned more.. the app was created to use TSX -> typescript with XML form
